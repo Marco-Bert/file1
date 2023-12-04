@@ -1,0 +1,4 @@
+Pane 0.80 3
+Uova 1 1.50 20%
+Farina 2.20 3
+Burro 1.60 1 10%
